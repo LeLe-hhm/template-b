@@ -1,7 +1,7 @@
 {
-  "name": {{name}},
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": {{description}},
+  "description": "{{description}}",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -9,7 +9,7 @@
     "ph": "./index.js"
   },
   "keywords": [],
-  "author": {{author}},
+  "author": "{{author}}",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.0.0",
